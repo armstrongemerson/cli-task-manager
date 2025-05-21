@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	// "github.com/yourusername/taskmanager/internal/task"
+
+	"github.com/armstrongemerson/cli-task-manager/tree/main/internal/task"
 )
 
 func main() {
